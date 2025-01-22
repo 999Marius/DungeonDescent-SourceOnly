@@ -1,6 +1,6 @@
 # 2D Dungeon Game
 
-![Game Screenshot](screenshot.png)
+![Gameplay GIF](DungeonDecentGif.gif)
 
 ## Description
 
@@ -28,7 +28,7 @@ Dungeon Descent is a thrilling top-down adventure game where you explore mysteri
 
 ## Screenshots
 
-![Gameplay GIF](gameplay.gif)
+![Game Screenshot](screenshot.png)
 
 ## Note
 
