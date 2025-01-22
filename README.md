@@ -39,7 +39,7 @@ Please note that this repository contains only the source code of the game and c
 
 The following screenshot provides a glimpse of the commit history from the private repository:
 
-![Commit History Screenshot](DungeonDecentAcitivity.png)
+![Commit History Screenshot](DungeonDecentAcitivity .png)
 
 If you have any questions or would like to learn more about the game, feel free to reach out to me.
 
