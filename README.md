@@ -1,4 +1,4 @@
-# 2D Dungeon Game
+# Dungeon Descent
 
 
 ![Game Screenshot](DungeonDecentScreen.png)
