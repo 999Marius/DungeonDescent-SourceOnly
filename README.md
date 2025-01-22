@@ -33,7 +33,7 @@ Dungeon Descent is a thrilling top-down adventure game where you explore mysteri
 
 ## Note
 
-Please note that this repository contains only the source code of the game and cannot be run directly. The `res` folder, which contains essential game resources such as images, sounds, and level data, is not included due to licensing restrictions. The purpose of this repository is to showcase the game's source code and demonstrate the implementation of various game development techniques.
+Please note that this repository contains only the source code of the game and cannot be run directly. The `res` folder, which contains essential game resources such as images, sprites and level data, is not included due to licensing restrictions. The purpose of this repository is to showcase the game's source code and demonstrate the implementation of various game development techniques.
 
 If you have any questions or would like to learn more about the game, feel free to reach out to me.
 
