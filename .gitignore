@@ -1,3 +1,17 @@
+# Ignore resource folder
 res/
-*.png
-*.jpg
+
+# Ignore compiled files
+*.class
+
+# Ignore IDE specific files
+.idea/
+*.iml
+/out/
+out/
+/bin/
+bin/
+
+# Ignore build files
+build/
+/build/
