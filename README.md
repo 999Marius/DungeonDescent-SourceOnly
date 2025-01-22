@@ -43,4 +43,3 @@ The following screenshot provides a glimpse of the commit history from the priva
 
 If you have any questions or would like to learn more about the game, feel free to reach out to me.
 
-Happy gaming!
